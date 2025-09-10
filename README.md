@@ -3,14 +3,62 @@
 <!--
 **Mhammad-web-dev/Mhammad-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:<!-- پروفایل README زیبا برای GitHub -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">👋 سلام، خوش اومدی به پروفایل من!</h1>
+
+<p align="center">
+من یک <b>Frontend Developer</b> هستم که عاشق JavaScript و React ـم 🚀<br/>
+برنامه‌نویسی برای من یعنی <i>خلق چیزهایی که زندگی رو ساده‌تر می‌کنه</i> 🌟
+</p>
+
+---
+
+## 🛠️ مهارت‌ها
+
+<p align="center">
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+       alt="HTML5" width="50" height="50"/>
+       
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+       alt="CSS3" width="50" height="50"/>
+       
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+       alt="JavaScript" width="50" height="50"/>
+       
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+       alt="React" width="50" height="50"/>
+       
+  <!-- Next.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+       alt="Next.js" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 آمار من در GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?Mhammad-web-dev=Mhammad-web-dev&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Mhammad-web-dev=Mhammad-web-dev&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+## 🚀 در حال یادگیری
+
+- TypeScript
+
+---
+
+## 🌐 شبکه‌های اجتما
+
+<p align="center">⭐ اگر پروژه‌هام به کارت اومدن، خوشحال می‌شم یه ستاره بدی ⭐</p>
+
