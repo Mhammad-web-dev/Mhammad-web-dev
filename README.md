@@ -40,25 +40,12 @@ Here are some ideas to get you started:<!-- پروفایل README زیبا بر�
 
 ---
 
-## 📊 آمار من در GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Mhammad-web-dev=Mhammad-web-dev&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Mhammad-web-dev=Mhammad-web-dev&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
-
 ## 🚀 در حال یادگیری
-
 - TypeScript
+- 
 
 ---
 
-## 🌐 شبکه‌های اجتما
 
 <p align="center">⭐ اگر پروژه‌هام به کارت اومدن، خوشحال می‌شم یه ستاره بدی ⭐</p>
 
