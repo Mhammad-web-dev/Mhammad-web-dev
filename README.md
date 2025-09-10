@@ -12,11 +12,11 @@ Here are some ideas to get you started:<!-- پروفایل README زیبا بر�
 برنامه‌نویسی برای من یعنی <i>خلق چیزهایی که زندگی رو ساده‌تر می‌کنه</i> 🌟
 </p>
 
----
+
 
 ## 🛠️ مهارت‌ها
 
-<p align="center">
+<p width : "100%">
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
        alt="HTML5" width="50" height="50"/>
@@ -38,7 +38,6 @@ Here are some ideas to get you started:<!-- پروفایل README زیبا بر�
        alt="Next.js" width="50" height="50"/>
 </p>
 
----
 
 ## 🚀 در حال یادگیری
 - TypeScript
